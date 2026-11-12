@@ -1,4 +1,4 @@
-waveform.sh
+### waveform.sh
 
 Generate an audio waveform video from a static image and an audio file using FFmpeg.
 
